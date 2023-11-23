@@ -1,4 +1,3 @@
-
 ** El reto **
 Un espía está enviando mensajes encriptados.
 
