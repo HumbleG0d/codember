@@ -22,3 +22,6 @@ Entrada: 494ee0,madeval,mdv@twitch.tv,,
 Resultado: ✅ Válido (age y location son opcionales)
 Entrada: 494ee0,madeval,twitch.tv,22,Montevideo
 Resultado: ❌ Inválido (email no es válido)
+
+ Encuentra el primer caracter (número o letra) del username de cada usuario inválido. Júntalos por orden de aparición y descubre el mensaje oculto. Luego envíalo con submit. Por ejemplo:
+submit att4ck
